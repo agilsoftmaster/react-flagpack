@@ -26,7 +26,6 @@
   "bugs": {
     "url": "https://github.com/Yummygum/react-flagpack/issues"
   },
-  "type": "module",
   "homepage": "https://flagpack.xyz",
   "scripts": {
     "dev": "rollup -cw",
